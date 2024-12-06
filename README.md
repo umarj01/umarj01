@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Umar Javaid
+- 👋 Hi, I’m Majammad Umair Javaid
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning C++
 - 📫 How to reach me - Email - umarch2544@gmail.com
