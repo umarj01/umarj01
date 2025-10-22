@@ -90,13 +90,6 @@ Virtual University of Pakistan
 
 ---
 
-## ✨ Tips to make it more professional
 
-* Add a short professional photo (square) and put it in the repo, then embed it at the top: `![Umar](./profile.jpg)`
-* Keep project descriptions short and link to live demos or GitHub Pages where possible.
-* Add a pinned projects section on your GitHub profile for quick access.
-* Regularly update the "What I'm learning" section to show progress.
-
----
 
 
