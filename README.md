@@ -4,17 +4,15 @@
 
 **BS Software Engineering** 
 • Virtual University of Pakistan
-Cybersecurity Enthusiast • 
+Full Stack Devolper • 
 Aspiring Penetration Tester
 
 ---
 
 <!-- Social / Contact buttons (replace `USERNAME` and `youremail@example.com`) -->
 
-[![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=follow\&style=social)](https://github.com/USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/USERNAME)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:youremail@example.com)
-[![Download Resume](https://img.shields.io/badge/Resume-Download-green)](./Umar_Javaid_Resume.pdf)
+[![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=follow\&style=social)](https://github.com/umarj01)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:umarch@gmail.com)
 
 ---
 
