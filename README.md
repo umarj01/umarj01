@@ -7,14 +7,6 @@
 Full Stack Devolper • 
 Aspiring Penetration Tester
 
----
-
-<!-- Social / Contact buttons (replace `USERNAME` and `youremail@example.com`) -->
-
-[![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=follow\&style=social)](https://github.com/umarj01)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:umarch@gmail.com)
-
----
 
 ## 🔎 About Me
 
